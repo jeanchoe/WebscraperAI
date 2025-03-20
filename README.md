@@ -1,6 +1,8 @@
 # AI-Powered Webscraper
 
-An **AI-driven search engine** that finds the best articles for a given keyword, **scrapes their content, and generates AI-powered summaries**. Results are displayed in a **ChatGPT-style interface** with search history and AI-generated related topic suggestions. 🚀  
+**THIS PROJECT IS STILL IN DEVELOPMENT**
+
+An **AI-driven search engine** that finds the best articles for a given keyword, **scrapes their content, and generates AI-powered summaries**. Results are displayed in a **ChatGPT-style interface** with search history and AI-generated related topic suggestions.  
 
 ## ***FEATURES***
 AI Summarization – Extracts key insights from articles.  
